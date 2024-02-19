@@ -1,0 +1,16 @@
+[
+{
+  "modid": "astolfotrailsdebug",
+  "name": "AstolfoTrailsDebug",
+  "description": "Astolfo Trails Debug | 1.8.9 (DEBUG)\n/astolfotrails on - enabled\n/astolfotrails off - disabled",
+  "version": "1.0",
+  "mcversion": "1.8.9",
+  "url": "https://github.com/vepexlegit",
+  "updateUrl": "",
+  "authorList": ["vepexlegit"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
